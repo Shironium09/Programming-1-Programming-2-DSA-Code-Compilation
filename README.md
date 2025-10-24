@@ -30,4 +30,5 @@ This repo showcases my learning journey in **C Programming**, featuring exercise
 ## 🧩 Future Plans
 
 - Add more DSA implementations  
-- Optimize and refactor older code  
+- Optimize and refactor older code
+- Add Visualization
