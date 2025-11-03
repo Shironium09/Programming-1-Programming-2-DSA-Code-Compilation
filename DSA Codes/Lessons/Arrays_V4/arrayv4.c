@@ -88,7 +88,3 @@ void delete(LIST*L, char elem){
     L->count--;
 
 }
-
-
-
-int locate(LIST*, char);
