@@ -32,3 +32,11 @@ This repo showcases my learning journey in **C Programming**, featuring exercise
 - Add more DSA implementations  
 - Optimize and refactor older code
 - Add Visualization
+
+To add:
+
+- Merge Sort
+- Quick Sort
+- Tournament Sort
+- Radix Sort
+- Strand Sort
