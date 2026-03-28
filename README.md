@@ -35,8 +35,8 @@ This repo showcases my learning journey in **C Programming**, featuring exercise
 
 To add:
 
-- Merge Sort
-- Quick Sort
+<!-- - Merge Sort -->
+<!-- - Quick Sort -->
 - Tournament Sort
-- Radix Sort
+<!-- - Radix Sort -->
 - Strand Sort
