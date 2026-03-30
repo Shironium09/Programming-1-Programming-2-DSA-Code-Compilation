@@ -33,10 +33,6 @@ This repo showcases my learning journey in **C Programming**, featuring exercise
 - Optimize and refactor older code
 - Add Visualization
 
-To add:
-
-<!-- - Merge Sort -->
-<!-- - Quick Sort -->
-- Tournament Sort
-<!-- - Radix Sort -->
-- Strand Sort
+Future Implementations: 
+- Fixed and add variations of the sorting algorithm
+- Trees and Graphs soon for Algo and Complexity 2nd part
